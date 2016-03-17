@@ -1,4 +1,4 @@
-# Adblock detection - How they work
+# Adblock detection - How they work?
 
 ## Why?
 For fun and learning.
