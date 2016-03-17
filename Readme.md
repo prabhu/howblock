@@ -1,4 +1,7 @@
-# Adblock detection code
+# Adblock detection - How they work
+
+## Why?
+For fun and learning.
 
 ## Guardian
 app.js tries to create an element with id ad_unit dynamically and then checks if the display is getting set to "none" (Adblockers do this automatically)
